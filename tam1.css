@@ -1,0 +1,58 @@
+body{
+	background-color: black;
+	}
+.navbar{
+	background:#ebc466 ;
+          }
+.p{
+	font-variant: 6px;
+   }
+.card-body{
+	background-color: black;
+	font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    padding: 0.25rem;
+     }
+  .container
+		{
+			width: 100%;
+		}
+.{
+	padding-right:150px;
+			margin-right: 50px;
+			margin-left: 50px;
+		} 
+
+
+.bhu{
+			padding-top: 150px;
+			padding-left: 150px;
+			padding-right: 150px;
+			padding-bottom: 150px;
+			margin-left: 350px;
+			text-align: center;
+		}
+a{
+	text-decoration-color: white;
+}
+.col{
+	padding: 250px;
+    margin-bottom: 350px;
+}
+.JUMB{
+	background-image: url(C:\Users\K&S\Desktop\website kamdani pics\website kamdani\jumbotron\Jumbotron.jpg);
+}
+.pow{
+	padding-right: n2rem;
+	padding-left: 160px;
+	margin-left:600px;
+}
+.card-title{
+	font-color:white;
+}
+h5{
+	font-color:white;
+}
+p{
+	font-color:#adadb5;
+}
